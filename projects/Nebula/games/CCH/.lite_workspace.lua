@@ -1,0 +1,1 @@
+return {["views"]={[1]={["selection"]={[1]=3701,[2]=19,[3]=3701,[4]=19},["active"]=false,["text"]=false,["scroll"]={["x"]=0,["y"]=77244},["filename"]="cards.lua",["type"]="doc"},[2]={["selection"]={[1]=42,[2]=35,[3]=42,[4]=35},["active"]=true,["text"]=false,["scroll"]={["x"]=0,["y"]=0},["filename"]="game.lua",["type"]="doc"}},["active_view"]=2,["type"]="leaf"}
