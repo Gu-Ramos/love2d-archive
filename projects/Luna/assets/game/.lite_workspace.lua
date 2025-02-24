@@ -1,1 +1,0 @@
-return {["type"]="leaf",["active_view"]=2,["views"]={[1]={["filename"]="cards_pt.json",["scroll"]={["y"]=0,["x"]=0},["type"]="doc",["text"]=false,["selection"]={[1]=1,[2]=1,[3]=1,[4]=1},["active"]=false},[2]={["filename"]="cards_pt.lua",["scroll"]={["y"]=62218,["x"]=0},["type"]="doc",["text"]=false,["selection"]={[1]=2972,[2]=19,[3]=2972,[4]=19},["active"]=true}}}
